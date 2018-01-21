@@ -1,0 +1,27 @@
+{
+  "name": "ctv-image-optimize",
+  "version": "1.0.0",
+  "description": "Optimizes images for ctv automatically",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilyanice",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-filelog": "^0.4.1",
+    "gulp-image": "^4.2.0",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-image-resize-ar": "^0.1.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jimp-resize": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-using": "^0.1.1",
+    "gulp-watch": "^4.0.1",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^5.0.1",
+    "vinyl-paths": "^2.1.0"
+  }
+}
