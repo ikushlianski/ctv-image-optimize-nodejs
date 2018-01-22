@@ -8,7 +8,9 @@
   "author": "ilyanice",
   "license": "ISC",
   "devDependencies": {
+    "bluebird": "^3.5.1",
     "del": "^3.0.0",
+    "gm": "^1.23.1",
     "gulp-cache": "^1.0.2",
     "gulp-filelog": "^0.4.1",
     "gulp-image": "^4.2.0",
